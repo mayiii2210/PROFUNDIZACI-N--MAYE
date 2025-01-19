@@ -1,0 +1,14 @@
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.AssemblyInfoInputs.cache
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.AssemblyInfo.cs
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.csproj.CoreCompileInputs.cache
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\bin\Debug\net9.0\TerceraClase.exe
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\bin\Debug\net9.0\TerceraClase.deps.json
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\bin\Debug\net9.0\TerceraClase.runtimeconfig.json
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\bin\Debug\net9.0\TerceraClase.dll
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\bin\Debug\net9.0\TerceraClase.pdb
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.dll
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\refint\TerceraClase.dll
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.pdb
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\TerceraClase.genruntimeconfig.cache
+C:\Users\MAYE SALAS\source\repos\TerceraClase\TerceraClase\obj\Debug\net9.0\ref\TerceraClase.dll
