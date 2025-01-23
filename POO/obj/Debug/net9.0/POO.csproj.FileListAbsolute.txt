@@ -1,0 +1,14 @@
+C:\Users\MAYE SALAS\source\repos\POO\POO\bin\Debug\net9.0\POO.exe
+C:\Users\MAYE SALAS\source\repos\POO\POO\bin\Debug\net9.0\POO.deps.json
+C:\Users\MAYE SALAS\source\repos\POO\POO\bin\Debug\net9.0\POO.runtimeconfig.json
+C:\Users\MAYE SALAS\source\repos\POO\POO\bin\Debug\net9.0\POO.dll
+C:\Users\MAYE SALAS\source\repos\POO\POO\bin\Debug\net9.0\POO.pdb
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.AssemblyInfoInputs.cache
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.AssemblyInfo.cs
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.dll
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\refint\POO.dll
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.pdb
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\POO.genruntimeconfig.cache
+C:\Users\MAYE SALAS\source\repos\POO\POO\obj\Debug\net9.0\ref\POO.dll
