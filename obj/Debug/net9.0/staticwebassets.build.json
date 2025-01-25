@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ld5kdqU+/fg6CoV8liQZhiO2HkVYIE9COSNrORFoMJg=",
+  "Source": "miapi",
+  "BasePath": "_content/miapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
