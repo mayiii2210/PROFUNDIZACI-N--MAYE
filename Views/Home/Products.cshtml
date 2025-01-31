@@ -6,7 +6,14 @@
 
 <h2>Lista de productos</h2>
 
-<a href="/Home/AgregarProducto" class="btn btn-primary">Agregar producto</a>
+<form method="get" action="/Home/BuscarProducto" class="mt-3">
+    <div class="input-group mb-3">
+        <input type="text" name="query" class="form-control" placeholder="Buscar producto" />
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+</form>
+
+<a href="/Home/AgregarProducto" class="btn btn-info">Agregar producto</a>
 
 
 
@@ -16,6 +23,7 @@
             <th>Nombre</th>
             <th>Precio</th>
             <th>Categoria</th>
+            <th>Descripción</th>
             <th>Funciones</th>
         </tr>
     </thead>
@@ -26,9 +34,10 @@
                 <td>@producto.Nombre</td>
                 <td>@producto.Precio</td>
                 <td>@producto.Categoria</td>
+                <td>@producto.Descripcion</td>
                 <td>
-                    <a href="@Url.Action("EditarProducto", "Home", new { id = producto.Id })" class="btn btn-warning">Editar</a>
-                    <a href="@Url.Action("EliminarProducto", "Home", new { id = producto.Id })" class="btn btn-danger">Eliminar</a>
+                    <a href="@Url.Action("EditarProducto", "Home", new { id = producto.Id })" class="btn custom-light-yellow-btn">Editar</a>
+                    <a href="@Url.Action("EliminarProducto", "Home", new { id = producto.Id })" class="btn custom-light-red-btn">Eliminar</a>
                 </td>
             </tr>
         }

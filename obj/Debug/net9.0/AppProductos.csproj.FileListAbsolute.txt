@@ -115,7 +115,6 @@ C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\AppProductos.Razo
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\scopedcss\bundle\AppProductos.styles.css
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\scopedcss\projectbundle\AppProductos.bundle.scp.css
-C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\compressed\8a7knzd8ve-b9sayid5wm.gz
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\compressed\pfd3yzkv21-61n19gt1b8.gz
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\compressed\cl5n2i34p9-xtxxf3hu2r.gz
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\compressed\au4ea854po-bqjiyaj88i.gz
@@ -198,3 +197,5 @@ C:\Users\MAYE SALAS\source\repos\AppProductos\bin\Debug\net9.0\Microsoft.EntityF
 C:\Users\MAYE SALAS\source\repos\AppProductos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\MAYE SALAS\source\repos\AppProductos\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\AppProdu.FEB21C74.Up2Date
+C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\AppProductos.sourcelink.json
+C:\Users\MAYE SALAS\source\repos\AppProductos\obj\Debug\net9.0\compressed\8a7knzd8ve-a2olxht9s0.gz

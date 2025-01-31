@@ -32,6 +32,23 @@ public class HomeController : Controller
         return View(productos);
     }
 
+    public IActionResult BuscarProducto(string query)
+{
+    if (string.IsNullOrEmpty(query))
+    {
+        return RedirectToAction("Products");
+    }
+
+    var productos = _productoService.ObtenerTodos()
+        .Where(p => p.Nombre.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    p.Categoria.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    p.Descripcion.Contains(query, StringComparison.OrdinalIgnoreCase))
+        .ToList();
+
+    return View("Products", productos);
+}
+
+
     public IActionResult AgregarProducto()
     {
         return View();

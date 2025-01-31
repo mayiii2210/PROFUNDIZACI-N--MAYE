@@ -1,4 +1,4 @@
-@model AppProductos.Models.Producto
+@model AppProductos.Models.Producto;
 
 @{
     ViewData["Title"] = "Editar Producto";
@@ -24,6 +24,6 @@
         <textarea class="form-control" id="Descripcion" name="Descripcion">@Model.Descripcion</textarea>
     </div>
 
-    <button type="submit" class="btn btn-success">Actualizar</button>
+    <button type="submit" class="btn btn-info">Actualizar</button>
     <a href="@Url.Action("Products")" class="btn btn-secondary">Cancelar</a>
 </form>

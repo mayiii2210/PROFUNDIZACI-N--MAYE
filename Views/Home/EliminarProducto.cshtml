@@ -1,4 +1,4 @@
-@model AppProductos.Models.Producto
+@model AppProductos.Models.Producto;
 
 @{
     ViewData["Title"] = "Eliminar Producto";
@@ -15,6 +15,6 @@
 
 <form asp-action="ConfirmarEliminar" method="post">
     <input type="hidden" name="id" value="@Model.Id" />
-    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <button type="submit" class="btn custom-light-red-btn">Eliminar</button>
     <a href="@Url.Action("Products")" class="btn btn-secondary">Cancelar</a>
 </form>

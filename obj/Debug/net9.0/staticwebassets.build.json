@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LSCzNwqIeXFzP4sP/R6FRjaD+RI2NCmN0HhFDgddA/s=",
+  "Hash": "WSszn877J5+XP2lh9hoAtEG1M3tnrb4QDoMCP4R3cd0=",
   "Source": "AppProductos",
   "BasePath": "_content/AppProductos",
   "Mode": "Default",
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-a2olxht9s0.gz",
       "SourceId": "AppProductos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/AppProductos",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=a2olxht9s0}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "1g67cfxvgj",
+      "Integrity": "YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "a2olxht9s0",
+      "Integrity": "7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-b9sayid5wm.gz",
+      "Route": "css/site.a2olxht9s0.css",
+      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-a2olxht9s0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002450980392"
         }
       ],
       "ResponseHeaders": [
@@ -3340,15 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "407"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 00:57:50 GMT"
+          "Value": "Fri, 31 Jan 2025 19:35:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3368,13 +3368,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "a2olxht9s0"
         },
         {
           "Name": "label",
@@ -3382,12 +3382,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.a2olxht9s0.css",
       "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "994"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +3405,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 00:57:50 GMT"
+          "Value": "Fri, 31 Jan 2025 19:35:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3419,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "a2olxht9s0"
         },
         {
           "Name": "label",
@@ -3427,13 +3427,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-b9sayid5wm.gz",
+      "Route": "css/site.a2olxht9s0.css.gz",
+      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-a2olxht9s0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "407"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +3450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 00:57:50 GMT"
+          "Value": "Fri, 31 Jan 2025 19:35:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3472,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "a2olxht9s0"
         },
         {
           "Name": "label",
@@ -3480,18 +3480,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-a2olxht9s0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002450980392"
         }
       ],
       "ResponseHeaders": [
@@ -3501,15 +3501,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "407"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 00:57:50 GMT"
+          "Value": "Fri, 31 Jan 2025 19:35:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3529,13 +3529,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw="
         }
       ]
     },
@@ -3550,7 +3550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "994"
         },
         {
           "Name": "Content-Type",
@@ -3558,11 +3558,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 00:57:50 GMT"
+          "Value": "Fri, 31 Jan 2025 19:35:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3572,13 +3572,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-7t1srijSPH/iYGX7D1Aqcs8LQ+HJYW/t067mVVK6HGw="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\MAYE SALAS\\source\\repos\\AppProductos\\obj\\Debug\\net9.0\\compressed\\8a7knzd8ve-a2olxht9s0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3587,7 +3587,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "407"
         },
         {
           "Name": "Content-Type",
@@ -3595,11 +3595,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 00:57:50 GMT"
+          "Value": "Fri, 31 Jan 2025 19:35:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3617,7 +3617,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-YRSfeBLBPy1mwD5xk4aToxRPIpyJcGGrqYARHKiN2Yw="
         }
       ]
     },
