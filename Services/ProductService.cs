@@ -14,7 +14,9 @@ namespace ProductsApp.Services
         }
 
         public async Task<(IEnumerable<Product> items, int totalItems, int totalPages)> GetAllProductsAsync(int page, int size) => await _productRepository.GetAllAsync(page, size);
+
         public async Task<Product?> GetByIdAsync(int id) => await _productRepository.GetByIdAsync(id);
+
         public async Task AddProductAsync(ProductDto productDto)
         {
             var product = new Product
@@ -32,6 +34,7 @@ namespace ProductsApp.Services
             };
             await _productRepository.AddAsync(product);
         }
+
         public async Task UpdateProductAsync(int id, ProductDto productDto)
         {
             var product = new Product
@@ -51,5 +54,10 @@ namespace ProductsApp.Services
         }
 
         public async Task DeleteProductAsync(int id) => await _productRepository.DeleteAsync(id);
+
+        public async Task<IEnumerable<Product>> SearchProductsAsync(int? id, string? name, string? categoryName)
+        {
+            return await _productRepository.SearchAsync(id, name, categoryName);
+        }
     }
 }

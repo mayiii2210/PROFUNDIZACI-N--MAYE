@@ -10,5 +10,8 @@ namespace ProductsApp.Services
         Task AddProductAsync(ProductDto productDto);
         Task UpdateProductAsync(int id, ProductDto productDto);
         Task DeleteProductAsync(int id);
+        Task<IEnumerable<Product>> SearchProductsAsync(int? id, string? name, string? categoryName);
     }
 }
+
+

@@ -9,5 +9,7 @@ namespace ProductsApp.Repositories
         Task AddAsync(Product product);
         Task UpdateAsync(int id, Product product);
         Task DeleteAsync(int id);
+
+        Task<IEnumerable<Product>> SearchAsync(int? id, string? name, string? categoryName);
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROFUNDIZACI-N--MAYE\\ProductsApp.csproj": {}
+    "D:\\ProductsApp\\ProductsApp.csproj": {}
   },
   "projects": {
-    "D:\\PROFUNDIZACI-N--MAYE\\ProductsApp.csproj": {
+    "D:\\ProductsApp\\ProductsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROFUNDIZACI-N--MAYE\\ProductsApp.csproj",
+        "projectUniqueName": "D:\\ProductsApp\\ProductsApp.csproj",
         "projectName": "ProductsApp",
-        "projectPath": "D:\\PROFUNDIZACI-N--MAYE\\ProductsApp.csproj",
+        "projectPath": "D:\\ProductsApp\\ProductsApp.csproj",
         "packagesPath": "C:\\Users\\MAYE SALAS\\.nuget\\packages\\",
-        "outputPath": "D:\\PROFUNDIZACI-N--MAYE\\obj\\",
+        "outputPath": "D:\\ProductsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,4 +96,9 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierG
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
