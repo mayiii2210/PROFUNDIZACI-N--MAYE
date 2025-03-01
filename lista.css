@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 218, 150);
+  }
+  
+  .container_class {
+    margin-top: 50px;
+    padding: 20px;
+    background:rgb(255, 235, 198);
+    box-shadow: 0 0 50px rgb(0, 0, 0, 0.2);
+    display: inline-block;
+    width: 300px;
+    margin-top: 15%;
+    border-radius: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    background: rgb(251, 179, 47);
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  li.Finalizada {
+    text-decoration: line-through;
+    background: orange;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background: rgb(254, 211, 131);
+    border: none;
+    color: rgb(7, 7, 7);
+    cursor: pointer;
+  }
+  
