@@ -1,0 +1,130 @@
+body {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+h1 {
+  color: #251d14;
+}
+
+.contenedor {
+  margin-top: 100px;
+  padding: 20px;
+  background: #cbbaa5;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+  display: inline-block;
+  width: 300px;
+  border-radius: 15px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.contenedor:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+}
+
+input {
+  padding: 10px;
+  width: 70%;
+  border: 2px solid #8B7D6B;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+input:focus {
+  border-color: #D3C6B6;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background: #8B7D6B;
+  color: white;
+  border: 1px solid #5B4934;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+button:hover {
+  background: #5B4934;
+  transform: translateY(-3px);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  background: #E5D8C8;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+li:hover {
+  background: #D3C6B6;
+  transform: translateY(-3px);
+}
+
+li span {
+  flex-grow: 1;
+  margin-right: 10px;
+  padding: 5px 10px;
+  background: #C3B299;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+li span:hover {
+  background: #B39D85;
+  transform: translateY(-3px);
+}
+
+li .botones {
+  display: flex;
+  gap: 5px;
+}
+
+li button {
+  padding: 5px 10px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+li button.edit {
+  background: #A47551;
+}
+
+li button.edit:hover {
+  background: #8D593E;
+  transform: translateY(-3px);
+}
+
+li button.delete {
+  background: #B36455;
+}
+
+li button.delete:hover {
+  background: #943D2E;
+  transform: translateY(-3px);
+}
+
+.complete {
+  text-decoration: line-through;
+  color: #7A5C43;
+  transition: color 0.3s ease-in-out;
+}
+
