@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(255, 218, 150);
+}
+
+.container_class {
+  padding: 20px;
+  background: linear-gradient(145deg, #f9d59b, #f4bd75);
+  border-radius: 20px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2), -10px -10px 20px rgba(255, 255, 255, 0.7);
+  width: 400px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: inset 3px 3px 5px rgba(0, 0, 0, 0.2), inset -3px -3px 5px rgba(255, 255, 255, 0.5);
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(145deg, #f48c06, #e57605);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2), -3px -3px 8px rgba(255, 255, 255, 0.5);
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background: linear-gradient(145deg, #e57605, #f48c06);
+  transform: scale(1.1);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  background: linear-gradient(145deg, #f4bd75, #f9d59b);
+  border-radius: 10px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2), -3px -3px 8px rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+li:hover {
+  background: linear-gradient(145deg, #e57605, #f48c06);
+}
+
+li.Finalizada {
+  text-decoration: line-through;
+  background: orange;
+}
+
+li button {
+  background: #ff5c5c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+li button:hover {
+  background: red;
+}
