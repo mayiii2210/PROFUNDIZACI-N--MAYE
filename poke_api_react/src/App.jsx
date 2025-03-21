@@ -46,8 +46,8 @@ const App = () => {
 
                     pokemonList.push({
                         name: pokemon.name,
-                        weight: pokemon.weight / 10, // Convertir a kg
-                        height: pokemon.height / 10, // Convertir a m
+                        weight: pokemon.weight / 10, 
+                        height: pokemon.height / 10,
                         image: pokemon.sprites.other["official-artwork"].front_default,
                         description,
                         bgColor,

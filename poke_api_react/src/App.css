@@ -75,7 +75,6 @@ body {
   filter: drop-shadow(0px 40px 60px rgba(0, 0, 0, 1));
 }
 
-/* Estilos para el encabezado y el buscador */
 .header-container {
   background: linear-gradient(135deg, #2C3E50, #1E1E2E);
   padding: 2rem 0;
@@ -132,7 +131,7 @@ input[type="text"]::placeholder {
   color: #AAAAAA;
 }
 
-/* Estilos para la grid de Pokémon */
+
 #pokemonList {
   display: flex;
   flex-wrap: wrap;
@@ -143,7 +142,6 @@ input[type="text"]::placeholder {
   padding: 0 20px;
 }
 
-/* Media queries para responsividad */
 @media (max-width: 768px) {
   h1 {
       font-size: 2.2rem;
